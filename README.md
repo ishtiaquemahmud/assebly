@@ -1,1 +1,5 @@
-To exicute echo $?
+To exicute 
+
+./filename
+
+echo $?
